@@ -12,7 +12,7 @@ Modification de la couleur du texte du nom des produits
 */
 
 .items_list li a {
-  color:#000;
+  color:##990066;
 }
 
 /*
@@ -24,7 +24,7 @@ Modification de la couleur du texte des titres principaux
 #cart h5,
 .mheader h3,
 .restaurant_selection #resto h2 {
-	color:#D40028;
+	color:##990066;
 }
 
 /*
@@ -81,5 +81,5 @@ Modification de la couleur de fond des principaux blocs :
 .tag_list .active a.nobg .lab,
 #zmodal .part h4,
 #zmodal .optionbox h4 {
-	background-color: #D40028;
+	background-color: #990066;
 }
